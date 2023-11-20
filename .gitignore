@@ -1,3 +1,4 @@
 .idea
 /venv
-.test_pdf_explained
+test_pdf_explained.py
+test.py
